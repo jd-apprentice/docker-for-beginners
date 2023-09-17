@@ -1,0 +1,16 @@
+{
+  "name": "docker-for-beginners",
+  "version": "1.0.0",
+  "description": ">Disclaimer: This is more of a practical repository than a tutorial. I will not go into the details of how Docker works, but rather how to use it. If you dont understand something, please refer to the [official documentation](https://docs.docker.com/).",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "console": "node console.js",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0"
+  }
+}
