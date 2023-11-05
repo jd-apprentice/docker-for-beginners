@@ -32,7 +32,6 @@ This will download the image `hello-world` from Docker Hub and run it. You shoul
 ```bash
 Hello from Docker!
 This message shows that your installation appears to be working correctly.
-...
 ```
 
 ## 🏗 Building your own image
